@@ -1,5 +1,5 @@
 # Trabalho-de-Polimorfismo
-este trabalho envolve a pesquisa sobre polimorfismo, classes abstratas e interface.
+este trabalho envolve a pesquisa sobre polimorfismo, classes abstratas e interface, feitos pelos estudantes Pedro Rafael Lourenço da Silva, Kauã Matheus Gomes de Lima e Ruan Ferreira da Silva Pedro
 
 Referências:
 Silva,Crysweton.Entenda as Classes Abstratas em Java(abstract).Youtube,14 de maio de 2022.8min6s.Disponivel em:<https://youtu.be/I2oz0puA6PE?si=zzkc4hEMUxTAMXHH >.Acesso em: 21 de Janeiro de 2025.
